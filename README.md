@@ -23,7 +23,7 @@ Classes:
 Book: Represents a traditional book.
 EBook: Inherits from Book and represents an electronic version of the book with additional properties and methods.
 ## How to Use:
-Clone or download this repository.
-Run the Python files (polymorphism.py or book.py) in your environment to explore the functionality.
-You can create objects for each class (Robot, Human, EBook, etc.), and observe how polymorphism works in action.
-Try different actions like reading pages, checking book details, or calling the action() method on various characters.
+- Clone or download this repository.
+- Run the Python files (polymorphism.py or book.py) in your environment to explore the functionality.
+- You can create objects for each class (Robot, Human, EBook, etc.), and observe how polymorphism works in action.
+- Try different actions like reading pages, checking book details, or calling the action() method on various characters.
