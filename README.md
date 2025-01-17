@@ -13,15 +13,15 @@ This Python program defines a Book class to represent physical books with detail
 
 - Features:
 - Book Class:
-Create a book with title, author, genre, and number of pages.
-display_info() method to display book details.
-read_pages() method to simulate reading pages from the book.
-EBook Class (extends Book):
-Inherits all functionality of the Book class.
-Adds a file_size attribute for the eBook's file size and a download() method.
-Classes:
-Book: Represents a traditional book.
-EBook: Inherits from Book and represents an electronic version of the book with additional properties and methods.
+- Create a book with title, author, genre, and number of pages.
+- display_info() method to display book details.
+- read_pages() method to simulate reading pages from the book.
+- EBook Class (extends Book):
+- Inherits all functionality of the Book class.
+- Adds a file_size attribute for the eBook's file size and a download() method.
+- Classes:
+- Book: Represents a traditional book.
+- EBook: Inherits from Book and represents an electronic version of the book with additional properties and methods.
 ## How to Use:
 - Clone or download this repository.
 - Run the Python files (polymorphism.py or book.py) in your environment to explore the functionality.
